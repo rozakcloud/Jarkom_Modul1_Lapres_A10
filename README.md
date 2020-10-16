@@ -56,5 +56,6 @@ Simpan dengan ekstensi .pdf
 
 14. ip.src == 192.168.100.5
 
-IP kita sendiri dapat dilihat melalui CMD dan menulis keyword ‘ipconfig’ .Setelah itu berhasil mendapat ip yang terdapat di ipv4 Address -> 192.168.100.5 
+IP kita sendiri dapat dilihat melalui CMD dan menulis keyword ‘ipconfig’ .Setelah itu berhasil mendapat ip yang terdapat di ipv4 Address -> 192.168.100.5
+
 15. ip.dst == 103.94.190.11 && http.request.method == GET
