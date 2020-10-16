@@ -5,6 +5,8 @@
 Follow tcp stream packet tersebut, dan akan terlihat bahwa web servernya adalah nginx
 Web server dari http://testing.mekanis.me/ adalah nginx
 
+(https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/1)
+
 2.http contains "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"
 
 3.http.host contains "ppid.dpr.go.id" && http.request.method ==POST
