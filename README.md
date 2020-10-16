@@ -11,7 +11,7 @@ Web server dari http://testing.mekanis.me/ adalah nginx
 2.http contains "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"
   
 3.http.host contains "ppid.dpr.go.id" && http.request.method ==POST
- 
+
 Username = 10pemuda
 Password = guncangdunia
 
@@ -19,7 +19,7 @@ Password = guncangdunia
 untuk mencari web-web yang menggunakan basic authentication
 
 5. Http contains “aku.pengen.pw”
- 
+
 Buka Authorization, akan terlihat Credentialnya
 Username: kakakgamtenk
 Password: hartatahtabermuda
@@ -31,7 +31,7 @@ ftp-data.command contains "zipkey"
 dan akan ketemu passnya di info packetnya
 
 7. Frame contains “Yes.pdf”
- 
+
 Lalu klik kanan packet dan pilih Folow -> Follow  TCP Stream
 Lalu ganti “ASCII” “Show and save data as” dengan “Raw”
 Lalu save file dengan nama Yes.zip
@@ -53,17 +53,15 @@ Lalu tekan Follow -> TCP Stream
 Lalu ganti “ASCII” “Show and save data as” dengan “Raw”
 Simpan dengan ekstensi .pdf
 
-
 ## B. Capture Filter
 
 11. port 21
- 
+
 12. src port 80
 
 13. dst port 443
- 
+
 14. ip.src == 192.168.100.5 
 IP kita sendiri dapat dilihat melalui CMD dan menulis keyword ‘ipconfig’ .Setelah itu berhasil mendapat ip yang terdapat di ipv4 Address -> 192.168.100.5 
- 
+
 15. ip.dst == 103.94.190.11 && http.request.method == GET
- 
