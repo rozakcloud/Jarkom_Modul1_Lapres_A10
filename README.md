@@ -46,7 +46,7 @@ Buka file Yes.zip yang berisi Yes.pdf, dan buka pdfnya
 ![7](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/7.jpg)
 ![7_2](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/7-2.jpg)
 
-8. ftp contains "Microsoft"
+8. ftp contains "Microsoft", lalu akan kelihatan bahwa IP dari Microsoft tersebut adalah 198.246.117.106
 ip.host == 198.246.117.106 && ftp.request.command == RETR
 yang di download adalah readme
 ![8](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/8.jpg)
