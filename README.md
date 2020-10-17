@@ -28,6 +28,7 @@
 
 ### 5. Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
 ### Http contains “aku.pengen.pw”
+![5_2](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/5-2.jpg)
 ### Buka Authorization, akan terlihat Credentialnya
 ### Username: kakakgamtenk
 ### Password: hartatahtabermuda
