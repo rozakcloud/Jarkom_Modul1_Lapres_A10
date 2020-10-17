@@ -1,4 +1,4 @@
-# Lapres Modul 1 Jarkom Kelompok 10
+# Lapres Modul 1 Jarkom Kelompok A10
 
 ## A. Display Filter
 1. http.host == "testing.mekanis.me"
