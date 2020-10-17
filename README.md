@@ -21,8 +21,7 @@ Password = guncangdunia
 
 4. http.authbasic
 untuk mencari web-web yang menggunakan basic authentication
-![4_1](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/4-1.jpg)
-![4_2](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/4-2.jpg)
+![4](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/4.jpg)
 
 5. Http contains “aku.pengen.pw”
 Buka Authorization, akan terlihat Credentialnya
@@ -35,6 +34,9 @@ Follow TCP Stream packetnya dan save dengan bentuk raw dengan ekstensi .zip
 buka file zipnya dan masukkan password dengan cara
 ftp-data.command contains "zipkey"
 dan akan ketemu passnya di info packetnya
+![6_1](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/6-1.jpg)
+![6_2](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/6-2.jpg)
+![6_3](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/6-3.jpg)
 
 7. Frame contains “Yes.pdf”
 Lalu klik kanan packet dan pilih Folow -> Follow  TCP Stream
@@ -47,6 +49,7 @@ Buka file Yes.zip yang berisi Yes.pdf, dan buka pdfnya
 8. ftp contains "Microsoft"
 ip.host == 198.246.117.106 && ftp.request.command == RETR
 yang di download adalah readme
+![8](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/8.jpg)
 
 9. ftp.request.command == USER or tp.request.command == PASS
 Username : dhana
@@ -66,13 +69,18 @@ Simpan dengan ekstensi .pdf
 
 ## B. Capture Filter
 11. port 21
+![11](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/11.jpg)
 
 12. src port 80
+![12](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/12.jpg)
 
 13. dst port 443
+![13](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/13.jpg)
 
 14. src 192.168.0.17
+![14](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/14.jpg)
 
 IP kita sendiri dapat dilihat melalui CMD dan menulis keyword ‘ipconfig’ .Setelah itu berhasil mendapat ip yang terdapat di ipv4 Address -> 192.168.0.17
 
 15. dst monta.if.its.ac.id
+![15](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/15.jpg)
