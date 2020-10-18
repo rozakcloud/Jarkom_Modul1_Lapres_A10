@@ -25,6 +25,7 @@
 ### http.authbasic
 ### untuk mencari web-web yang menggunakan basic authentication
 ![4](https://github.com/rozakcloud/Jarkom_Modul1_Lapres_A10/blob/main/img/4.jpg)
+### Kendala: saat praktikum saya menjawab http.request.method == GET && http contains "/ HTTP/1.1" && http contains "Basic" yang ternyata kurang benar
 
 ### 5. Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
 ### masuk ke website "aku.pengen.pw" dan isi sesuai perintah
